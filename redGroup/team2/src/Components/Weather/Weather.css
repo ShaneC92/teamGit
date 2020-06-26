@@ -1,0 +1,7 @@
+.weather {
+    height: 350px;
+    width: 350px;
+    align-content: center;
+    border: 2px solid blue;
+    margin: 25px;
+}
