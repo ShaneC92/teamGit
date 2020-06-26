@@ -34,7 +34,7 @@ class Nasa extends React.Component {
         return(
             <div>
                 <h1>Satellite image matching your location:</h1>
-                <img src={this.state.img} alt="current location" height="400" width="500"  />
+                <img className="img" src={this.state.img} alt="current location" height="400" width="500" />
             </div>      
         )   
     }   
